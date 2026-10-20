@@ -3618,7 +3618,7 @@ Here's an awesome list of AI agents:
 
 ### Seonix SEO MCP
 <div><a href="https://github.com/seonix-ai/seonix-mcp"><img src="https://img.shields.io/badge/Repository-Public-green" alt="Repository verification"></a> <a href="https://github.com/seonix-ai/seonix-mcp"><img src="https://img.shields.io/github/stars/seonix-ai/seonix-mcp?style=social" alt="GitHub stars"></a></div>
-<p class="project-provenance"><strong>Submitted by:</strong> <em>not yet recovered from repository history</em> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/seonix-ai">@seonix-ai</a></p>
+<p class="project-provenance"><strong>Submitted by:</strong> <a href="https://github.com/pahaa97">@pahaa97</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/817">submission</a> <a href="https://github.com/slavakurilyak/awesome-ai-agents/pull/817">accepted PR</a> · <strong>Maintained by:</strong> <em>not yet verified</em> · <strong>Repository owner:</strong> <a href="https://github.com/seonix-ai">@seonix-ai</a></p>
 <p>🔌 MCP Servers</p>
 
 <p>Open-source, read-only MCP server that lets an AI agent audit any website for SEO, GEO/AEO (AI-search visibility) and page speed problems, then propose minimal fixes and dry-run them without modifying the site, via audit_site, speed_audit, propose_fixes and preview_fix tools.</p>
